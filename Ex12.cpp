@@ -46,3 +46,4 @@ int main()
     f(move(fa));
     cout << "end of main()\n";
 }
+//program 24 for stl in c++
