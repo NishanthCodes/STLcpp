@@ -95,3 +95,4 @@ int main()
         prompt();
     }
 }
+//program for stl in templates
