@@ -72,3 +72,4 @@ int main()
          << count_if(begin(l), end(l), is_type<dog>)
          << " dogs in the list.\n";
 }
+//program 78 for stl in c++
